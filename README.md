@@ -1,3 +1,3 @@
 # study
 
-My first git repo
+My first Git repo
